@@ -18,7 +18,7 @@ jobs:
             echo "Connected to EC2..."
 
             # Go to your project root
-            cd /home/ubuntu/OpsDesk-Ticket-management-System
+            cd /home/ubuntu/deskopsdemo
 
             # Pull latest code
             git pull origin main
